@@ -1,0 +1,1 @@
+This folder contains the files for a unity project I made for Robocode that uses URP and Photon. It is a multiplayer top-down shooter game that is still unfinished and may never end up being finished but it had to be uploaded through Git.
